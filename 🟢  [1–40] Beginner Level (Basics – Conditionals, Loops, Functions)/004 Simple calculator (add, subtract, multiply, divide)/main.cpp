@@ -1,3 +1,6 @@
+// failed attempt !!!!!!!!!!!!!!!!
+// Check the working attempt second.cpp
+
 #include <iostream>
 
 int math(int &choice, int &number1, int &number2);
@@ -102,4 +105,5 @@ int math(int &choice, int &number1, int &number2) {
     }
 
     return result;
+
 }
