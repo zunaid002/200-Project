@@ -1,3 +1,4 @@
+//finished and working
 #include <iostream>
 
 int main() {
@@ -93,10 +94,12 @@ int main() {
         
         if(choice == 2){
             newCalculation = false;
+            continue;
         }
-
+        newCalculation = true;
 
     }
+
 
 
 }
